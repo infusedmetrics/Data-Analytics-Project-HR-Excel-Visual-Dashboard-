@@ -23,8 +23,8 @@ These features are tailored to create an engaging, intuitive user experience whi
 - Using PivotTables to aggregate and summarize data, allowing for flexible analysis of workforce trends.
 - Employing Power Query for efficient data cleaning and transformation, ensuring the dataset was analysis-ready.
 - Creating visually appealing and insightful charts to highlight important metrics and trends.
-- Applying advanced Excel formulas (e.g., INDEX-MATCH, COUNTIF) to derive meaningful insights from the dataset.
+- Applying advanced Excel formulas (e.g., INDEX-MATCH, COUNTIF, VLOOKUP) to derive meaningful insights from the dataset.
 - Designing the overall layout and interactivity of the dashboard to ensure a user-friendly experience.
-- Creative visual enhancement: For this project i wanted to add something diferrent so i inclcuded  star rating.
+- Creative visual enhancement:  Star Rating - which visually scores departments or metrics based on staff feedback. This offers an intuitive way for stakeholders to quickly assess areas of improvement or concern.
   
 This project demonstrates my ability to transform raw data into actionable insights, showcasing analytical thinking, attention to detail, and proficiency in Excel.
